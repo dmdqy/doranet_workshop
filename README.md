@@ -14,3 +14,8 @@ https://colab.research.google.com/drive/1Ms_bywzFFQOOdKtNO54_vWDtq2smtn2a?usp=sh
 
 ## Acknowledgments
 
+William W. Sprague
+
+Stefan C. Pate
+
+Linda J. Broadbelt
